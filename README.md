@@ -18,3 +18,8 @@ The application is also capable of showing various messages which include: -
 3)	Also, when you try to change the pin for your particular account and your pin does not match in your “new pin” and “confirm new pin” field, an error message pops up displaying “Pin does not match”.
 4)	 Also, there are different message pop ups when you’re successful in doing various operations like creating new account, editing profile, depositing money, transferring money, withdrawing money and changing pin.
 
+# Contributors
+
+Pavan Karthick M - PES1UG19CS325
+Saicharan Polishetty - PES1UG19CS325
+Nikhila Priya N- PES1UG19CS309
